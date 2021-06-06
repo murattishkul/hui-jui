@@ -1,0 +1,27 @@
+HOW TO RUN PROJECT:
+  1. npm install && npm start
+  2. go to http://localhost:3000
+  3. grab csv file either from my src/data directory or the one that TA has provided
+  4. change date as you want. PROFIT.
+
+
+  + (1 point) Set the center of viewpoint to Ulsan, ROK
+
+  + (3 point) Use a sequential color pallette (single-hue) to depict the number of total confirmed
+  cases on the map
+    + (2 point) Set the data range for each section of color on your own
+    + (.5 point) Define more than 7 divisions of color
+    + (.5 point) Plot a legend for the choropleth map
+
+  + (2 point) Show a tooltip for the mouseover event on a country region
+  Page 1
+    + (2 point) Include the country name and the number of its total confirmed case in each
+    tooltip
+
++ (3 point) Filter the data by date
+  + (1 point) Enable to check data of ONE year
+  + (2 point) Use a date picker or a date slider to select the date you want to check
+ The data should be changed to a corresponding date when you select
+
+
+DONE BY MURAT TISHKUL id20162035
